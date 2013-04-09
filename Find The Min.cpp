@@ -10,7 +10,7 @@ vector<long int> num;
 
 void string_tokenizer(string s)
 {
-  string delimiters = " ";
+  	string delimiters = " ";
 	size_t current;
 	size_t next = -1;
 	do
