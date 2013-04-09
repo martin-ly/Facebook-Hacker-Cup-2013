@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc,char *argv[])
 {
-  ifstream file;
+  	ifstream file;
 	ofstream op;
 	op.open("output.txt");
 	string line;
